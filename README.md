@@ -114,4 +114,13 @@ This repository is a **practical journey into Object-Oriented Programming with C
 💼 Perfect for:
 - Students  
 - Junior developers  
-- Portfolio & GitHub showcase  
+- Portfolio & GitHub showcase
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Paradigm-OOP-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Algorithms-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Memory-Management-red?style=for-the-badge" />
+</p>
